@@ -1,2 +1,1 @@
-<img src = https://octodex.github.com/images/yaktocat.png alt-text = "cat">
-<em>Image of Yaktocat</em>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
